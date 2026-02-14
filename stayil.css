@@ -1,0 +1,56 @@
+.o{
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    background-color: aliceblue;
+    margin: 25px;
+   padding: 20px;
+}
+.l{
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+.v{
+    border-radius: 50px;
+display: flex;
+    justify-content: center;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.kl{
+    border-radius: 15px;
+}
+.mk{
+     border-radius: 20px;
+    margin-left: 40px;
+    color: blueviolet;
+        margin-right: 20px;
+}
+.mj{
+    border-radius: 20px;
+ margin-left: 70px;
+    color: blueviolet;
+}
+.ob{
+    display: flex;
+    justify-content: center;
+}
+.dw{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(122, 66, 225);
+    color: blue;
+    border-radius: 15px;
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gr{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3005px;
+}
+.kmj{
+    background-color: bisque;
+}
